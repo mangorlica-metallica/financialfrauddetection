@@ -1,3 +1,2 @@
-The dataset is from the link below, it is about the credit card fraud:<br>
-[https://www.kaggle.com/c/ieeefrauddetection/discussion/101203](https://www.kaggle.com/c/ieee-fraud-detection/overview) <br>
+The dataset is in the zip file A1data, it is about the credit card fraud:<br>
 The project is aiming to carry out EDA analysis of credit card fraud. Various machine learning model is also built to detect credit fraud effectively in the future.
